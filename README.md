@@ -1,3 +1,3 @@
 # prime-group-joins
 
-This is a database challenge from the Prime Digital Academy 
+This is a database challenge for the Prime Digital Academy 
